@@ -1,11 +1,11 @@
 # Simple RAG
 ## A Simple Retrieval Augmented Generation (RAG) Framework
 
-### Retrieval-Augmented Generation (RAG) enhances language models by integrating external knowledge sources, improving their ability to provide accurate and up-to-date information. A basic RAG system comprises two main components:
+#### Retrieval-Augmented Generation (RAG) enhances language models by integrating external knowledge sources, improving their ability to provide accurate and up-to-date information. A basic RAG system comprises two main components:
 
-### Retrieval Model: 
+#### Retrieval Model: 
   - Fetches relevant information from external sources like databases or search engines.
-### Language Model: 
+#### Language Model: 
   - Generates responses based on the retrieved information.
  
 To build a simple RAG system in Python using the ollama library, follow these steps:
