@@ -12,7 +12,7 @@ To build a simple RAG system in Python using the ollama library, follow these st
 
 **1. Indexing Phase**
 
-  - **Chunking:** Divide your dataset into smaller segments (e.g., sentences or paragraphs).
+  - **Chunking:** Divide the dataset into smaller segments (e.g., sentences or paragraphs).
   - **Embedding:** Convert each chunk into a vector representation using a pre-trained embedding model.
   - **Storage:** Store these embeddings in a vector database for efficient retrieval.
 
